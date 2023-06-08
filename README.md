@@ -3,7 +3,7 @@
 <h1 align="center">Hi there <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> I'm Vyshakh</h1>
 
 # 💫 About Me:
-🔭A passionate computer science engineering student. <br>🔭I'm enthusiastic about leveraging technology to solve real-world problems and constantly expanding my knowledge in the field.<br>🔭Currently pursuing a Bachelor's/Master's degree in Computer Science Engineering at FISAT.<br>🔭Welcome to my GitHub profile!
+🔭A passionate computer science engineering student. <br>🔭I'm enthusiastic about leveraging technology to solve real-world problems and constantly expanding my knowledge in the field.<br>🔭Currently pursuing a Bachelor's degree in Computer Science Engineering at FISAT.<br>🔭Welcome to my GitHub profile!
 
 
 ## 🌐 Socials:
